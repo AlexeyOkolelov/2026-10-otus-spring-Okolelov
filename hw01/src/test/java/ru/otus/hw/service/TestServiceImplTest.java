@@ -17,7 +17,7 @@ class TestServiceImplTest {
 
     public static final String TEST_QUESTION = "This is a test?";
 
-    public static final String PLEASE_ANSWER_THE_QUESTIONS_BELOW_N = "Please answer the questions below%n";
+    public static final String PLEASE_ANSWER_THE_QUESTIONS_BELOW_N = "Please answer the questions below";
 
     private IOService ioService;
 
